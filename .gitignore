@@ -1,0 +1,8 @@
+*.db
+*.pyo
+*.pyc
+*.tmp
+*.xml
+*.iml
+/venv*
+*\venv
