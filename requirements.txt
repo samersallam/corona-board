@@ -14,7 +14,7 @@ pyparsing==2.4.6
 pyproj==2.4.2.post1
 python-dateutil==2.8.1
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 six==1.14.0
 soupsieve==1.9.5
 tornado==6.0.3
